@@ -1,4 +1,6 @@
 test1
 test2
 git commit -a -m "msg
-skip 
+skip
+git push --set-upstream origin b1
+ 
